@@ -1,0 +1,609 @@
+{
+    "lang_Es": {
+        "Start": {
+            "title": "Soy",
+            "name": "SEBASTIAN",
+            "lastname": " NARANJO",
+            "quote": "Desarrollador Full Stack especializado en crear soluciones modernas y atractivas."
+        },
+        "Quote": {
+            "title": "Un poco sobre mí ...",
+            "quote": "Soy un desarrollador apasionado por resolver problemas a través de la tecnología. Me especializo en React.js y .NET, y siempre estoy buscando nuevas formas de mejorar mis habilidades."
+        },
+        "MainSkills": {
+            "title": "Lo que mejor se me da es ...",
+            "content": [
+                {
+                    "name": "React.js",
+                    "route": "icon_react.svg",
+                    "description": "Durante mi experiencia laboral he trabajado con proyectos hechos en React.js, creando nuevas interfaces desde cero como también añadiendo funcionalidades a aplicaciones ya creadas."
+                },
+                {
+                    "name": "C#",
+                    "route": "icon_cSharp.svg",
+                    "description": "He trabajado siempre en entornos .Net, sobretodo con C#, desarrollando desde integración de APis, hasta gestión de errores, validaciones, etc. También interfaces de FrontEnd con ASP.Net."
+                },
+                {
+                    "name": "SQL",
+                    "route": "icon_sql.png",
+                    "description": "Mi experiencia con SQL incluye la creación de tablas optimizadas, enfocadas en evitar redundancia de datos y establecer relaciones eficientes entre ellas. Además, he trabajado en la creación y modificación de procedimientos almacenados para manejar procesos complejos."
+                }
+            ]
+        },
+        "SecondarySkills": {
+            "title": "Pero también tengo experiencia en más tecnologías ...",
+            "content": [
+                {
+                    "name": "DevExtreme",
+                    "route": "icon_cSharp.svg",
+                    "description": "He desarrollado con DevExpress portales de gestión de logística interna usando múltiples componentes"
+                },
+                {
+                    "name": "React Native",
+                    "route": "icon_cSharp.svg",
+                    "description": "Para desarrollar aplicaciones móviles android, para eventos deportivos y gestion de logística."
+                },
+                {
+                    "name": "React Redux",
+                    "route": "icon_cSharp.svg",
+                    "description": "Para crear y mantener estados globales durante todo el uso de aplicaciones web."
+                },
+                {
+                    "name": "JSON",
+                    "route": "icon_cSharp.svg",
+                    "description": "He trabajado con datos en JSON para testear la correcta visualizacion de pantallas."
+                },
+                {
+                    "name": "ASP.Net",
+                    "route": "icon_cSharp.svg",
+                    "description": "Con ASP.Net he desarrollado el front portales de gestión internos."
+                },
+                {
+                    "name": "Git",
+                    "route": "icon_cSharp.svg",
+                    "description": "Usado para control de versiones en todos mis proyectos, siempre usando buenas practicas."
+                },
+                {
+                    "name": "Bootstrap",
+                    "route": "icon_cSharp.svg",
+                    "description": "Para desarrollar interfaces visualmente atractivas de una manera rápida y eficente."
+                },
+                {
+                    "name": "Visual Basic .Net",
+                    "route": "icon_cSharp.svg",
+                    "description": "VB.Net usado en mi último proyecto tanto en el back como en el front, el cuál acabamos modernizando"
+                },
+                {
+                    "name": "Figma",
+                    "route": "icon_cSharp.svg",
+                    "description": "Lo he usado tanto para sugerir nuevas pantallas como para crear mis interfaces propias."
+                },
+                {
+                    "name": "DevExtreme",
+                    "route": "icon_cSharp.svg",
+                    "description": "La suite de componentes que utilicé durante mis experiencias laborales para crear front de manera eficaz."
+                },
+                {
+                    "name": "Azure Devops",
+                    "route": "icon_cSharp.svg",
+                    "description": "Desde aquí he gestionado mis tareas durante mis proyectos cuando usabamos SCRUM."
+                },
+                {
+                    "name": "JavaScript",
+                    "route": "icon_cSharp.svg",
+                    "description": "Indispensable para desarrollar mejoras en las diferentes funcionalidades de la web."
+                },
+                {
+                    "name": "WordPress",
+                    "route": "icon_cSharp.svg",
+                    "description": "Para desarrollar webs sencillas para clientes con necesidades simples."
+                },
+                {
+                    "name": "Less CSS",
+                    "route": "icon_cSharp.svg",
+                    "description": "Para mí, una de las mejores maneras de optimizar código CSS, ya que permite anidar y hacer funciones."
+                },
+                {
+                    "name": "Firebase",
+                    "route": "icon_cSharp.svg",
+                    "description": "De Google, lo he usado en mis proyectos propios los cuales me quería centrar más en el front."
+                },
+                {
+                    "name": "Java",
+                    "route": "icon_cSharp.svg",
+                    "description": "El lenguaje con el que aprendí, gran parte del desarrollo web, sobretodo en el backend."
+                },
+                {
+                    "name": "JSP",
+                    "route": "icon_cSharp.svg",
+                    "description": "De Java, permite crear páginas dinámicas usando código dentro del propio HTML. "
+                },
+                {
+                    "name": "SCRUM",
+                    "route": "icon_cSharp.svg",
+                    "description": "La metodología de trabajo que he utilizado para distribuir tareas de una manera eficiente."
+                },
+                {
+                    "name": "CSS3",
+                    "route": "icon_cSharp.svg",
+                    "description": "He usado CSS tanto para estilar webs como para hacerlas responsive en diferentes medidas."
+                },
+                {
+                    "name": "HTML5",
+                    "route": "icon_cSharp.svg",
+                    "description": "El lenguaje de marcado por defecto para desarrollo web, el esqueleto de las webs."
+                },
+                {
+                    "name": "Photoshop",
+                    "route": "icon_cSharp.svg",
+                    "description": "Me encanta la fotografía y con ello la edición de imágenes, por ello lo aprendí por mi cuenta."
+                }
+            ]
+        },
+        "WorkExperience": {
+            "title": "He trabajado en ...",
+            "common": {
+                "as": "Como",
+                "since": "desde el",
+                "to": "hasta el"
+            },
+            "content": [
+                {
+                    "company": "Utopía Soluciones Informáticas S.L.",
+                    "position": "Desarrollador Full Stack",
+                    "startDate": "04/2022",
+                    "endDate": "06/2023",
+                    "description": "Durante mi primera experiencia como desarrollador mis funciones fueron bastante diversas, entre ellas:",
+                    "tasks": [
+                        {
+                            "task": "Transformar el Front de portales web hechos con ASP.Net a React.Js."
+                        },
+                        {
+                            "task": "Desarrollar portales de gestión de datos tanto con React.Js como con ASP.Net."
+                        },
+                        {
+                            "task": "Desarrollar aplicaciones móviles con React Native, añadir nuevas funcionalidades y mejorar las interfaces para el usuario."
+                        },
+                        {
+                            "task": "Utilizar DevExpress y DevExtreme como suite de componentes para gestionar datos desde las diferentes pantallas."
+                        },
+                        {
+                            "task": "Crear y modificar los correspondientes Stored Procedures en las bases de datos para gestionar los datos con SQL."
+                        },
+                        {
+                            "task": "Manejo de APIs de terceros y desarrollo de APIs propias."
+                        },
+                        {
+                            "task": "Trabajar con bases de datos no relacionales con datos ficticios para mostrar datos."
+                        }
+                    ]
+                },
+                {
+                    "company": "Recodme",
+                    "position": "Desarrollador Frontend",
+                    "startDate": "09/2023",
+                    "endDate": "08/2024",
+                    "description": "En ésta ocasión pude utilizar los conocimientos adquiridos en mi primera experiencia con entornos .Net pero esta vez desarrollando el Front comercial de Sodexo tras su cambio de nombre a Pluxee, mis funciones fueron: ",
+                    "tasks": [
+                        {
+                            "task": "Creación de interfaces de usuario interactivas y optimización de rendimiento."
+                        },
+                        {
+                            "task": "Transformar el portal de contratación de servicios antigüo a su versión moderna con ASP.Net y DevExpress."
+                        },
+                        {
+                            "task": "Aplicar medidas para que el portal sea lo más responsive posible con CSS."
+                        },
+                        {
+                            "task": "Trabajar en equipo bajo metodología SCRUM."
+                        },
+                        {
+                            "task": "Solucionar diferentes bugs de la versión antigüa hecha en Visual Basic .Net."
+                        },
+                        {
+                            "task": "Desarrollar y mejorar funcionalidades para el portal con JavaScript."
+                        }
+                    ]
+                },
+                {
+                    "company": "Alten Spain",
+                    "position": "Desarrollador Full Stack",
+                    "startDate": "06/2025",
+                    "endDate": "Actualidad",
+                    "description": "En ésta ocasión pude trabajar en la migración de aplicaciones web hechas en versiones antiguas de .net hacia versiones mas modernas con .net Core 8, mis principales funciones fueron: ",
+                    "tasks": [
+                        {
+                            "task": "Creación de interfaces de usuario interactivas y optimización de rendimiento."
+                        },
+                        {
+                            "task": "Modernizar el portal que usaba un área médica y estaba quedando obsoleto hacia su versión moderna con un diseño fresco y renovado."
+                        },
+                        {
+                            "task": "Aplicar medidas para que el portal sea lo más responsive posible con CSS."
+                        },
+                        {
+                            "task": "Trabajar en equipo bajo metodología SCRUM."
+                        },
+                        {
+                            "task": "Solucionar diferentes incidencias de la versión antigua hecha en .Net Framework."
+                        },
+                        {
+                            "task": "Desarrollar y mejorar funcionalidades para el portal con JavaScript."
+                        }
+                    ]
+                }
+            ]
+        },
+        "Contact": {
+            "title": "Puedes encontrarme en ...",
+            "email": "testEmail1.test1.test@gmail.com",
+            "phone": "+34 123 456 789",
+            "linkedin": "https://linkedin.com/in/na-sebastian",
+            "github": "https://github.com/SebasIsDeveloping"
+        },
+        "MainEducation": {
+            "title": "Me he formado en ...",
+            "common": {
+                "At": "En"
+            },
+            "content": [
+                {
+                    "course": "CFGS DESARROLLO DE APLICACIONES MULTIPLATAFORMA (DAM)",
+                    "school": "I.E.S Alonso de Ercilla, Ocaña",
+                    "dates": "2025 - 2026",
+                    "description": "En este curso aprendí sobre cómo es el desarrollo de aplicaciones multiplataforma, tanto para dispositivos móviles como para ordenadores, abarcando desde el diseño de interfaces hasta la programación y despliegue de las aplicaciones."
+                },
+                {
+                    "course": "CFGS DESARROLLO DE APLICACIONES WEB (DAW)",
+                    "school": "I.E.S Azarquiel, Toledo",
+                    "dates": "2020 - 2022",
+                    "description": "En este curso aprendí sobre los fundamentos de la programación y del desarrollo de aplicaciones web, desde lenguajes de marcado hasta gestión de servidores web, también sobre backend, frontend y bases de datos."
+                },
+                {
+                    "course": "CFGS ADMINISTRACIÓN DE SISTEMAS EN RED (ASIR)(1º)",
+                    "school": "C.I.F.P Virgen de Gracia, Puertollano",
+                    "dates": "2020 - 2021",
+                    "description": "En este curso aprendí sobre cómo mantener sistemas informáticos, servidores y redes, así como a gestionar bases de datos, virtualización, seguridad informática y servicios en la nube. Se forma a profesionales capaces de administrar infraestructuras IT y garantizar su disponibilidad, rendimiento y seguridad."
+                },
+                {
+                    "course": "CFGM SISTEMAS MICROINFORMÁTICOS Y REDES (SMR)",
+                    "school": "I.E.S Alonso de Ercilla, Ocaña",
+                    "dates": "2018 - 2020",
+                    "description": "En este curso aprendí sobre todo el mundo de la informática a un nivel más profesional, aprendí sobre cómo se comunican los equipos mediante redes, sobre gestión de servidores tanto Windows como Linux, a resolver problemas de informática, gestionar medidas de seguridad para servidores y electrónica para empezar mi camino en este mundillo."
+                }
+            ]
+        },
+        "SecondaryEducation": {
+            "title": "Y también he hecho cursos sobre ...",
+            "common": {
+                "platform": "Curso de",
+                "by": "por",
+                "hours": "horas",
+                "certificate": "Ver certificado"
+            },
+            "content": [
+                {
+                    "course": "ASP.NET Core Web API Bootcamp, REST APis & SQL",
+                    "school": "Udemy",
+                    "author": "Vaxi Drez",
+                    "duration": "36"
+                },
+                {
+                    "course": "PROGRAMANDO EN C# 10 - DE PRINCIPIANTE A PROFESIONAL",
+                    "school": "Udemy",
+                    "author": "Felipe Gavilán",
+                    "duration": "20,5"
+                },
+                {
+                    "course": "DESARROLLO DE APLICACIONES ANDROID & IOS CON REACT NATIVE",
+                    "school": "Udemy",
+                    "author": "Juan Pablo de la Torre Valdez",
+                    "duration": "40"
+                },
+                {
+                    "course": "REACT DE CERO A EXPERTO CON HOOKS Y MERN",
+                    "school": "Udemy",
+                    "author": "Fernando Herrera",
+                    "duration": "54"
+                }
+            ]
+        },
+        "Extra Data": {
+            "content": {
+                "languages": [
+                    "Español (Nativo)",
+                    "Inglés (Avanzado)"
+                ],
+                "interests": [
+                    "Inteligencia Artificial",
+                    "Diseño UX/UI",
+                    "Automatización de procesos"
+                ]
+            }
+        }
+    },
+    "lang_En": {
+        "Start": {
+            "title": "I am",
+            "name": "SEBASTIAN",
+            "lastname": " NARANJO",
+            "quote": "Full Stack Developer specialized in creating modern and attractive solutions."
+        },
+        "Quote": {
+            "title": "A little bit about me ...",
+            "quote": "I'm a developer passionate about solving problems through technology. I specialize in React.js and .NET, and I'm always looking for new ways to improve my skills."
+        },
+        "MainSkills": {
+            "title": "What I do best is ...",
+            "content": [
+                {
+                    "name": "React.js",
+                    "route": "icon_react.svg",
+                    "description": "During my work experience I have worked with projects made in React.js, creating new interfaces from scratch as well as adding functionalities to already created applications."
+                },
+                {
+                    "name": "C#",
+                    "route": "icon_cSharp.svg",
+                    "description": "I have always worked in .Net environments, especially with C#, developing everything from API integration to error management, validations, etc. Also FrontEnd interfaces with ASP.Net."
+                },
+                {
+                    "name": "SQL",
+                    "route": "icon_sql.png",
+                    "description": "My experience with SQL includes creating optimized tables, focused on avoiding data redundancy and establishing efficient relationships between them. In addition, I have worked on creating and modifying stored procedures to handle complex processes."
+                }
+            ]
+        },
+        "SecondarySkills": {
+            "title": "But I also have experience in more technologies ...",
+            "content": [
+                {
+                    "name": "DevExtreme",
+                    "route": "icon_cSharp.svg",
+                    "description": "He desarrollado con DevExpress portales de gestión de logística interna usando múltiples componentes"
+                },
+                {
+                    "name": "React Native",
+                    "route": "icon_cSharp.svg",
+                    "description": "TEST"
+                },
+                {
+                    "name": "React Redux",
+                    "route": "icon_cSharp.svg",
+                    "description": "TEST"
+                },
+                {
+                    "name": "JSON",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "ASP.Net",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "Git",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "Bootstrap",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "Visual Basic .Net",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "Figma",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "DevExtreme",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "Azure Devops",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "JavaScript",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "WordPress",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "Less CSS",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "Firebase",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "Java",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "JSP",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "SCRUM",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "CSS3",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "HTML5",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                },
+                {
+                    "name": "Photoshop",
+                    "route": "icon_cSharp.svg",
+                    "description": "TypeScript"
+                }
+            ]
+        },
+        "WorkExperience": {
+            "title": "I have worked at ...",
+            "common": {
+                "as": "As",
+                "since": "since",
+                "to": "to"
+            },
+            "content": [
+                {
+                    "company": "Utopía Soluciones Informáticas S.L.",
+                    "position": "Full Stack Developer",
+                    "startDate": "04/2022",
+                    "endDate": "06/2023",
+                    "description": "My duties here were quite diverse, including:",
+                    "tasks": [
+                        {
+                            "task": "Transform the Front of web portals made with ASP.Net to React.Js."
+                        },
+                        {
+                            "task": "Develop data management portals with both React.Js and ASP.Net."
+                        },
+                        {
+                            "task": "Use DevExpress and DevExtreme as a suite of components to manage data from different screens."
+                        },
+                        {
+                            "task": "Create and modify the corresponding Stored Procedures in the databases to manage data with SQL."
+                        },
+                        {
+                            "task": "Management of third-party APIs and development of own APIs."
+                        },
+                        {
+                            "task": "Working with non-relational databases with dummy data to display data."
+                        }
+                    ]
+                },
+                {
+                    "company": "Recodme",
+                    "position": "Frontend Developer",
+                    "startDate": "09/2023",
+                    "endDate": "08/2024",
+                    "description": "On this occasion I was able to use the knowledge acquired in my first experience with .Net environments but this time developing the commercial Front of Sodexo after its name change to Pluxee, my functions were: ",
+                    "tasks": [
+                        {
+                            "task": "Creating interactive user interfaces and optimizing performance."
+                        },
+                        {
+                            "task": "Transforming the old service contracting portal to its modern version with ASP.Net and DevExpress."
+                        },
+                        {
+                            "task": "Apply good practices to make the portal as responsive as possible with CSS."
+                        },
+                        {
+                            "task": "Working as a team under SCRUM methodology."
+                        },
+                        {
+                            "task": "Fix various bugs in the old version made in Visual Basic .Net."
+                        },
+                        {
+                            "task": "Develop and improve web functionality with JavaScript."
+                        }
+                    ]
+                }
+            ]
+        },
+        "Contact": {
+            "title": "You can find me at ...",
+            "email": "testEmail1.test1.test@gmail.com",
+            "phone": "+34 123 456 789",
+            "linkedin": "https://linkedin.com/in/na-sebastian",
+            "github": "https://github.com/SebasIsDeveloping"
+        },
+        "MainEducation": {
+            "title": "I have been trained in ...",
+            "common": {
+                "At": "At"
+            },
+            "content": [
+                {
+                    "course": "ASSOCIATE DEGREE IN WEB APPLICATION DEVELOPMENT",
+                    "school": "I.E.S Azarquiel, Toledo",
+                    "dates": "2020 - 2022"
+                },
+                {
+                    "course": "ASSOCIATE DEGREE IN NETWORK SYSTEMS ADMINISTRATION",
+                    "school": "C.I.F.P Virgen de Gracia, Puertollano",
+                    "dates": "2020 - 2021"
+                },
+                {
+                    "course": "TECHNICAL DEGREE IN MICROCOMPUTER SYSTEMS AND NETWORKS",
+                    "school": "I.E.S Alonso de Ercilla, Ocaña",
+                    "dates": "2018 - 2020"
+                }
+            ]
+        },
+        "SecondaryEducation": {
+            "title": "And I have also studied about ...",
+            "common": {
+                "platform": "course",
+                "by": "by",
+                "hours": "hours",
+                "certificate": "See certificate"
+            },
+            "content": [
+                {
+                    "course": "ASP.NET Core Web API Bootcamp, REST APis & SQL",
+                    "school": "Udemy",
+                    "author": "Vaxi Drez",
+                    "duration": "36"
+                },
+                {
+                    "course": "PROGRAMMING ON C# 10 - FROM BEGINNER TO PROFESSIONAL",
+                    "school": "Udemy",
+                    "author": "Felipe Gavilán",
+                    "duration": "20,5"
+                },
+                {
+                    "course": "MOBILE APP DEVELOPMENT (ANDROID & IOS) WITH REACT NATIVE",
+                    "school": "Udemy",
+                    "author": "Juan Pablo de la Torre Valdez",
+                    "duration": "40"
+                },
+                {
+                    "course": "REACT FROM ZERO TO EXPERT WITH HOOKS AND MERN",
+                    "school": "Udemy",
+                    "author": "Fernando Herrera",
+                    "duration": "54"
+                }
+            ]
+        },
+        "Extra Data": {
+            "content": {
+                "languages": [
+                    "Spanish (Nativo)",
+                    "English (Avanzado)"
+                ],
+                "interests": [
+                    "Inteligencia Artificial",
+                    "Diseño UX/UI",
+                    "Automatización de procesos"
+                ]
+            }
+        }
+    }
+}
