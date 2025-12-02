@@ -96,3 +96,43 @@ hr {
     border-radius: 35px 35px 35px 0px;
     height: 20rem;
 }
+
+
+
+/* MAIN SKILLS */
+#mainSkills_bg {}
+
+#mainSkills {
+    padding: 0px 2.5rem;
+    margin: 0px 2.5rem;
+}
+
+#mainSkills .container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.mainSkill {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.mainSkillCard {
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.mainSkillName {
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+}
+
+.mainSkillDesc {
+    font-size: 18px;
+}

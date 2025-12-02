@@ -1,6 +1,7 @@
 import './App.css';
 import Start from './components/Start';
 import ImgQuote from './components/ImgQuote';
+import MainSkills from './components/MainSkills';
 
 function App() {
 
@@ -10,6 +11,8 @@ function App() {
         <Start />
         <hr />
         <ImgQuote />
+        <hr />
+        <MainSkills />
         <hr />
 
 
