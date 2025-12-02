@@ -149,32 +149,29 @@
             },
             "content": [
                 {
-                    "company": "Utopía Soluciones Informáticas S.L.",
+                    "company": "Alten Spain",
                     "position": "Desarrollador Full Stack",
-                    "startDate": "04/2022",
-                    "endDate": "06/2023",
-                    "description": "Durante mi primera experiencia como desarrollador mis funciones fueron bastante diversas, entre ellas:",
+                    "startDate": "06/2025",
+                    "endDate": "Actualidad",
+                    "description": "En ésta ocasión pude trabajar en la migración de aplicaciones web hechas en versiones antiguas de .net hacia versiones mas modernas con .net Core 8, mis principales funciones fueron: ",
                     "tasks": [
                         {
-                            "task": "Transformar el Front de portales web hechos con ASP.Net a React.Js."
+                            "task": "Creación de interfaces de usuario interactivas y optimización de rendimiento."
                         },
                         {
-                            "task": "Desarrollar portales de gestión de datos tanto con React.Js como con ASP.Net."
+                            "task": "Modernizar el portal que usaba un área médica y estaba quedando obsoleto hacia su versión moderna con un diseño fresco y renovado."
                         },
                         {
-                            "task": "Desarrollar aplicaciones móviles con React Native, añadir nuevas funcionalidades y mejorar las interfaces para el usuario."
+                            "task": "Aplicar medidas para que el portal sea lo más responsive posible con CSS."
                         },
                         {
-                            "task": "Utilizar DevExpress y DevExtreme como suite de componentes para gestionar datos desde las diferentes pantallas."
+                            "task": "Trabajar en equipo bajo metodología SCRUM."
                         },
                         {
-                            "task": "Crear y modificar los correspondientes Stored Procedures en las bases de datos para gestionar los datos con SQL."
+                            "task": "Solucionar diferentes incidencias de la versión antigua hecha en .Net Framework."
                         },
                         {
-                            "task": "Manejo de APIs de terceros y desarrollo de APIs propias."
-                        },
-                        {
-                            "task": "Trabajar con bases de datos no relacionales con datos ficticios para mostrar datos."
+                            "task": "Desarrollar y mejorar funcionalidades para el portal con JavaScript."
                         }
                     ]
                 },
@@ -206,29 +203,32 @@
                     ]
                 },
                 {
-                    "company": "Alten Spain",
+                    "company": "Utopía Soluciones Informáticas S.L.",
                     "position": "Desarrollador Full Stack",
-                    "startDate": "06/2025",
-                    "endDate": "Actualidad",
-                    "description": "En ésta ocasión pude trabajar en la migración de aplicaciones web hechas en versiones antiguas de .net hacia versiones mas modernas con .net Core 8, mis principales funciones fueron: ",
+                    "startDate": "04/2022",
+                    "endDate": "06/2023",
+                    "description": "Durante mi primera experiencia como desarrollador mis funciones fueron bastante diversas, entre ellas:",
                     "tasks": [
                         {
-                            "task": "Creación de interfaces de usuario interactivas y optimización de rendimiento."
+                            "task": "Transformar el Front de portales web hechos con ASP.Net a React.Js."
                         },
                         {
-                            "task": "Modernizar el portal que usaba un área médica y estaba quedando obsoleto hacia su versión moderna con un diseño fresco y renovado."
+                            "task": "Desarrollar portales de gestión de datos tanto con React.Js como con ASP.Net."
                         },
                         {
-                            "task": "Aplicar medidas para que el portal sea lo más responsive posible con CSS."
+                            "task": "Desarrollar aplicaciones móviles con React Native, añadir nuevas funcionalidades y mejorar las interfaces para el usuario."
                         },
                         {
-                            "task": "Trabajar en equipo bajo metodología SCRUM."
+                            "task": "Utilizar DevExpress y DevExtreme como suite de componentes para gestionar datos desde las diferentes pantallas."
                         },
                         {
-                            "task": "Solucionar diferentes incidencias de la versión antigua hecha en .Net Framework."
+                            "task": "Crear y modificar los correspondientes Stored Procedures en las bases de datos para gestionar los datos con SQL."
                         },
                         {
-                            "task": "Desarrollar y mejorar funcionalidades para el portal con JavaScript."
+                            "task": "Manejo de APIs de terceros y desarrollo de APIs propias."
+                        },
+                        {
+                            "task": "Trabajar con bases de datos no relacionales con datos ficticios para mostrar datos."
                         }
                     ]
                 }

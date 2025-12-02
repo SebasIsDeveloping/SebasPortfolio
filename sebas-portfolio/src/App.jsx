@@ -2,6 +2,8 @@ import './App.css';
 import Start from './components/Start';
 import ImgQuote from './components/ImgQuote';
 import MainSkills from './components/MainSkills';
+import SecondarySkills from './components/SecondarySkills';
+import WorkExperiences from './components/WorkExperiences';
 
 function App() {
 
@@ -13,6 +15,10 @@ function App() {
         <ImgQuote />
         <hr />
         <MainSkills />
+        <hr />
+        <SecondarySkills />
+        <hr />
+        <WorkExperiences />
         <hr />
 
 

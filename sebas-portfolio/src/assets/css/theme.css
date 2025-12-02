@@ -136,3 +136,101 @@ hr {
 .mainSkillDesc {
     font-size: 18px;
 }
+
+
+
+
+/* SECONDARY SKILLS */
+#secondarySkills_bg {}
+
+#secondarySkills {
+    padding: 0px 2.5rem;
+    margin: 0px 2.5rem;
+}
+
+#secondarySkills .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.secondarySkill {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+}
+
+.secondarySkillCard {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-bottom: 10px;
+    border-radius: 15px 15px 15px 0px;
+    padding: 10px;
+}
+
+.secondarySkillName {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+
+.secondarySkillCard:hover {
+    background-color: lightgrey;
+}
+
+.secondarySkillDesc {
+    font-size: 18px;
+    height: 0px;
+    overflow: hidden;
+    background-color: lightgrey;
+    display: flex;
+    align-items: center;
+    transition: height 0.3s ease;
+    border-radius: 0px 15px 15px 15px;
+}
+
+.secondarySkillCard:hover+.secondarySkillDesc {
+    height: 90px;
+    padding: 12px;
+    border: 0.5px solid black;
+}
+
+
+
+/* WORK EXPERIENCES */
+#workExperiences_bg {}
+
+
+#workExperiences {
+    padding: 0px 2.5rem;
+    margin: 0px 2.5rem;
+}
+
+.workExperience {
+    margin-bottom: 4%;
+}
+
+
+#workExperiences span {
+    font-size: 18px;
+}
+
+.workExperiencePositionBold {
+    font-weight: bold;
+}
+
+.workExperienceCompany {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.workExperienceDesc {
+    font-size: 18px;
+}
+
+.workTask {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
