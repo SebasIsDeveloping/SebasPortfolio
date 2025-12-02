@@ -235,8 +235,8 @@
             ]
         },
         "Contact": {
-            "title": "Puedes encontrarme en ...",
-            "email": "testEmail1.test1.test@gmail.com",
+            "title": "Puedes contactarme a través de ...",
+            "email": "testEmail@gmail.com",
             "phone": "+34 123 456 789",
             "linkedin": "https://linkedin.com/in/na-sebastian",
             "github": "https://github.com/SebasIsDeveloping"

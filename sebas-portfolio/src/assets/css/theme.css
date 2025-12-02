@@ -261,3 +261,17 @@ hr {
     font-size: 18px;
     margin-top: 7.5px;
 }
+
+/* CONTACT ME */
+#contactme .container {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+}
+
+#contactme .contactways {
+    display: flex;
+    flex-direction: column;
+}

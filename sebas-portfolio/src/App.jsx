@@ -5,6 +5,7 @@ import MainSkills from './components/MainSkills';
 import SecondarySkills from './components/SecondarySkills';
 import WorkExperiences from './components/WorkExperiences';
 import Education from './components/Education';
+import Contact from './components/Contact';
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
         <hr />
         <Education />
         <hr />
+        <Contact />
 
 
       </div>
