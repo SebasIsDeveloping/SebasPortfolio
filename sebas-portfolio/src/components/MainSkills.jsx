@@ -14,11 +14,10 @@ function MainSkills() {
                     {data.content.map(skill =>
                         <div className='mainSkill'>
                             <div className='mainSkillCard'>
-                                <img
-                                    className='mainSkillImage'
+                                <img className="mainSkillImage"
                                     alt={skill.name}
                                     width={100}
-                                    src={`../../public/assets/images/${skill.route}`}
+                                    src={new URL(`/src/assets/images/${skill.route}`, import.meta.url).href}
                                 />
                                 <span className='mainSkillName'>{skill.name}</span>
                             </div>

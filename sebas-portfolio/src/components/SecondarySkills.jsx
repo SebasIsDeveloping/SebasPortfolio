@@ -18,7 +18,7 @@ function SecondarySkills() {
                                     className='secondarySkillImage'
                                     alt={skill.name}
                                     width={100}
-                                    src={`../../public/assets/images/${skill.route}`}
+                                    src={new URL(`/src/assets/images/${skill.route}`, import.meta.url).href}
                                 />
                                 <span className='secondarySkillName'>{skill.name}</span>
                             </div>

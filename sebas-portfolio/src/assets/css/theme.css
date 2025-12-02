@@ -68,6 +68,7 @@ hr {
 }
 
 
+
 /* QUOTE SCREEN */
 #imgQuote_bg {}
 
@@ -136,7 +137,6 @@ hr {
 .mainSkillDesc {
     font-size: 18px;
 }
-
 
 
 
@@ -233,4 +233,31 @@ hr {
 .workTask {
     margin-bottom: 10px;
     font-size: 18px;
+}
+
+
+/* EDUCATION */
+#education_bg {}
+
+#education {
+    padding: 0px 2.5rem;
+    margin: 0px 2.5rem;
+}
+
+.education {
+    margin-bottom: 5%;
+}
+
+#education span {
+    font-size: 18px;
+}
+
+.educationName {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.educationDesc {
+    font-size: 18px;
+    margin-top: 7.5px;
 }

@@ -7,6 +7,15 @@
   flex-direction: column;
 }
 
+:root {
+  color-scheme: light;
+}
+
+html {
+  background: #ffffff !important;
+  color: #000000 !important;
+}
+
 
 /* #root {
   max-width: 1280px;

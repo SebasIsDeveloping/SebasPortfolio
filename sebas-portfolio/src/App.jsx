@@ -4,6 +4,7 @@ import ImgQuote from './components/ImgQuote';
 import MainSkills from './components/MainSkills';
 import SecondarySkills from './components/SecondarySkills';
 import WorkExperiences from './components/WorkExperiences';
+import Education from './components/Education';
 
 function App() {
 
@@ -19,6 +20,8 @@ function App() {
         <SecondarySkills />
         <hr />
         <WorkExperiences />
+        <hr />
+        <Education />
         <hr />
 
 
